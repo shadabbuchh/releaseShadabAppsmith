@@ -3,18 +3,6 @@
     {
       "id": "Page1",
       "isDefault": true
-    },
-    {
-      "id": "Page2",
-      "isDefault": false
-    },
-    {
-      "id": "Page3",
-      "isDefault": false
-    },
-    {
-      "id": "Page4",
-      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -23,6 +11,9 @@
   "color": "#D6D1F2",
   "icon": "laptop",
   "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
     "type": "FLUID"
   },
   "unpublishedCustomJSLibs": [],
